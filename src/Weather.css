@@ -24,10 +24,6 @@
   padding-left: 0;
 }
 
-.Weather img {
-  margin-top: 10px;
-}
-
 .Weather .temperature {
   color: #212121;
   font-size: 64px;
