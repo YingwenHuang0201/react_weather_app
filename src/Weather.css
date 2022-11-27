@@ -28,7 +28,7 @@
   color: #212121;
   font-size: 64px;
   font-weight: 400;
-  margin: 10px;
+  margin-left: 20px;
 }
 
 .Weather .unit {
@@ -37,4 +37,5 @@
   font-weight: 400;
   position: relative;
   top: -32px;
+  margin-left: 10px;
 }
